@@ -49,7 +49,7 @@ scripts/figures/ # Figure-specific plotting scripts
 Run commands from the project root:
 
 ```bash
-cd ~
+cd /~
 ```
 
 ### 2. Bootstrap and data preparation
