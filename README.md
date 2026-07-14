@@ -49,7 +49,7 @@ scripts/figures/ # Figure-specific plotting scripts
 Run commands from the project root:
 
 ```bash
-cd /Users/chnqwe/Science/CVD/CVD_MS_2
+cd ~
 ```
 
 ### 2. Bootstrap and data preparation
